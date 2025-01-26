@@ -1,0 +1,1 @@
+Simple Python application that fetches a random Kanye West quote from an API and displays it in a graphical interface. The app uses the tkinter library for the GUI and the requests library to interact with the Kanye REST API.
